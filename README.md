@@ -10,4 +10,4 @@ vagrant up
 ```
 
 
-Follow the instructions in my [[https://github.com/jayjanssen/vagrant-percona][vagrant-percona repo]] for more help.
+Follow the instructions in my vagrant-percona git hub repo here:https://github.com/jayjanssen/vagrant-percona for more help with the setup.
